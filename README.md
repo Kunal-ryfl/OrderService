@@ -7,7 +7,13 @@
   
 ![Screenshot 2025-01-20 225318](https://github.com/user-attachments/assets/67cfffe5-d190-4385-99fd-d6fb33c862a8)
 ![image](https://github.com/user-attachments/assets/71d2fa8c-4dbc-4b6d-8148-442a7f893039)
+
+customer Id and product id both not valid so both failed
+
 ![Screenshot 2025-01-20 233109](https://github.com/user-attachments/assets/94bbcf65-2eac-4f6f-a010-05755179df06)
+
+customer Id in order1 not valid so it failed other order created
+
 ![Screenshot 2025-01-20 233032](https://github.com/user-attachments/assets/0756c735-214a-4c53-8d16-7eaccceed781)
 
 
