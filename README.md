@@ -6,7 +6,7 @@
 - bulk orders
   
 ![Screenshot 2025-01-20 225318](https://github.com/user-attachments/assets/67cfffe5-d190-4385-99fd-d6fb33c862a8)
-![Screenshot 2025-01-20 231748](https://github.com/user-attachments/assets/67a4519e-97ba-4884-9256-549137bae31c)
+![image](https://github.com/user-attachments/assets/71d2fa8c-4dbc-4b6d-8148-442a7f893039)
 
 - invalid product
   
